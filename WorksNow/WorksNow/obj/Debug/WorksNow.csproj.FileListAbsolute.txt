@@ -1,0 +1,16 @@
+D:\StudentWorks\WorksNow\WorksNow\bin\Debug\DataBaseWorks.mdf
+D:\StudentWorks\WorksNow\WorksNow\bin\Debug\DataBaseWorks_log.ldf
+D:\StudentWorks\WorksNow\WorksNow\bin\Debug\WorksNow.exe.config
+D:\StudentWorks\WorksNow\WorksNow\bin\Debug\WorksNow.exe
+D:\StudentWorks\WorksNow\WorksNow\bin\Debug\WorksNow.pdb
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.csprojAssemblyReference.cache
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.Form1.resources
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.Properties.Resources.resources
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.csproj.GenerateResource.cache
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.csproj.CoreCompileInputs.cache
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.exe
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.pdb
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.TIME_DESCRIPTION.resources
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.Add_User_Form.resources
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.Description_Works.resources
+D:\StudentWorks\WorksNow\WorksNow\obj\Debug\WorksNow.Report.resources
